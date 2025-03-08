@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jeedipallybalajireddy@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1AAzlUOqvfy8MWk8aDcmOhGQW5kbh8KqS/view?usp=sharing)
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1AAzlUOqvfy8MWk8aDcmOhGQW5kbh8KqS/view?usp=sharing](https://drive.google.com/file/d/1cJIpe1RAI0qtdjfjHk3I4OVt3iq9Yy8B/view?usp=sharing))
 
 - ⚡ Fun fact **I think I'm funny**
 
