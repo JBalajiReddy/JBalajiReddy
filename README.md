@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jbalajireddy&label=Profile%20views&color=0e75b6&style=flat" alt="jbalajireddy" /> </p>
 
-- 🌱 I’m currently learning **Spring, ML.**
+- 🌱 I’m currently learning **SpringBoot, ML.**
 
 - 💬 Ask me about **ML, java, dsa.**
 
 - 📫 How to reach me **jeedipallybalajireddy@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1cJIpe1RAI0qtdjfjHk3I4OVt3iq9Yy8B/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1EPO2ZNwXOD1k9pnyWiUfzukJXaPh5Hd8/view?usp=sharing)
 
 - ⚡ Fun fact **I think I'm funny**
 
