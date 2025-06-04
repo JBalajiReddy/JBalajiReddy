@@ -1,19 +1,24 @@
 <h1>💫 About Me:</h1>
-<div style="display: flex; align-items: center; gap: 30px; padding: 20px; border-radius: 10px;">
-  <div style="flex: 1; font-size: 16px; line-height: 1.6;">
-    <p>🙋🏻‍♂️ Hi, I'm Balaji Reddy</p>
-    <p>🧑🏻‍💻 I'm a developer from India</p>
-    <p>👯 I'm looking to collaborate on Projects</p>
-    <p>🌱 I'm currently learning Data Science</p>
-    <p>📄 Know about my experiences: <a href="https://drive.google.com/file/d/1vo5Zbc6bYr2A__FUexypKDxLzVTH7X6r/view?usp=sharing">Resume</a></p>
-    <p align="left"> <img src="https://komarev.com/ghpvc/?username=jbalajireddy&label=Profile%20views&color=0e75b6&style=flat" alt="jbalajireddy" /> </p>
-  </div>
-  <div style="flex: 1; text-align: center;">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3gxZ3E4bnF2dmZyZzloeWZweDBkazM5OXJyY3RkMGRya21sNWhzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" 
-         alt="Developer GIF" 
-         style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+
+👋 Hi, I'm Balaji Reddy  
+💻 I'm a developer from India  
+🤝 I'm looking to collaborate on Projects  
+🌱 I'm currently learning Data Science  
+📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1vo5Zbc6bYr2A__FUexypKDxLzVTH7X6r/view?usp=sharing)
+
+</td>
+    <td>
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3gxZ3E4bnF2dmZyZzloeWZweDBkazM5OXJyY3RkMGRya21sNWhzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" 
+           alt="Developer GIF" 
+           width="200" 
+           style="border-radius: 8px;">
+    </td>
+  </tr>
+</table>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jbalajireddy&label=Profile%20views&color=0e75b6&style=flat" alt="jbalajireddy" /> </p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jeedipalli-balaji-reddy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jeedipallybalajireddy@gmail.com) [![Portfolio](https://img.shields.io/badge/My_Portfolio-0077CC.svg?logo=link&logoColor=white)](https://jbalajireddy.netlify.app/)
