@@ -22,7 +22,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jbalajireddy&label=Profile%20views&color=0e75b6&style=flat" alt="jbalajireddy" /> </p>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jeedipalli-balaji-reddy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jeedipallybalajireddy@gmail.com) [![Portfolio](https://img.shields.io/badge/My_Portfolio-0077CC.svg?logo=link&logoColor=white)](https://jbalajireddy.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeedipalli-balaji-reddy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jeedipallybalajireddy@gmail.com) [![Portfolio](https://img.shields.io/badge/My_Portfolio-0077CC.svg?logo=link&logoColor=white)](https://jbalajireddy.netlify.app/)
 
 
 # 💻 Tech Stack:
