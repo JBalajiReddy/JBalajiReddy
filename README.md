@@ -7,7 +7,7 @@
 💻 I'm a developer from India  
 🤝 I'm looking to collaborate on Projects  
 🌱 I'm currently learning Data Science  
-📄 Know about my experiences: <a href="https://drive.google.com/file/d/1vo5Zbc6bYr2A__FUexypKDxLzVTH7X6r/view?usp=sharing" target="_blank">Resume</a>
+📄 Know about my experiences: <a href="https://drive.google.com/file/d/1F1ooISKM9guH04I8-oVATUyW2QIJ-X8a/view?usp=drive_link" target="_blank">Resume</a>
 
 
 </td>
